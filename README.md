@@ -15,4 +15,3 @@ https://github.com/tinjuiho/investryV1Backend
 ## tutorial about AWS amplify and react/redux
 https://github.com/richardzcode/Journal-AWS-Amplify-Tutorial
 
-## test
